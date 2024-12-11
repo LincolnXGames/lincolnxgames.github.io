@@ -47,8 +47,8 @@
     }
 
     @font-face {
-      font-family: 'Blanka';
-      src: url('/blanka-font.otf') format('opentype');
+      font-family: 'VCROSD';
+      src: url('/vcr_osd_mono.ttf') format('truetype');
     }
 
     .header-section {
@@ -76,7 +76,7 @@
 
     h1 {
       color: #89CFF0;
-      font-family: 'Blanka', Calibri, sans-serif;
+      font-family: 'VCROSD', Calibri, sans-serif;
       font-size: 4vw;
       margin: 0;
     }
@@ -93,7 +93,7 @@
       color: #333;
       text-decoration: none;
       font-size: 1.5vw;
-      font-family: 'Blanka', Calibri, sans-serif;
+      font-family: 'VCROSD', Calibri, sans-serif;
     }
 
     nav a:hover {
